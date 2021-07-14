@@ -1,52 +1,89 @@
-[
+ [
     {
-        "title": "Max Böck",
-        "url": "https://mxb.dev/",
-        "feed": "https://mxb.dev/feed.xml"
-    },
-    {
-        "title": "Manuel Matuzovic",
-        "url": "https://www.matuzo.at/",
-        "feed": "https://www.matuzo.at/feed.xml"
-    },
-    {
-        "title": "Charlie Owen",
-        "url": "https://www.sonniesedge.net/",
+        "title": "Amnesty International",
+        "url": "https://www.amnesty.org/",
         "feed": null
     },
     {
-        "title": "Björn Ganslandt",
-        "url": "https://ganslandt.xyz/",
+        "title": "Workable Model UN",
+        "url": "https://workablemun.org/",
         "feed": null
     },
     {
-        "title": "Jan Hrubý",
-        "url": "https://www.mrozilla.cz/",
+        "title": "The Nature Conservancy",
+        "url": "https://www.nature.org/",
         "feed": null
     },
     {
-        "title": "Zach Leatherman",
-        "url": "https://www.zachleat.com/",
-        "feed": "https://www.zachleat.com/web/feed/"
-    },
-    {
-        "title": "Steve Gardner",
-        "url": "https://ste.vg",
+        "title": "Avaaz",
+        "url": "https://avaaz.org/",
         "feed": null
     },
     {
-        "title": "Alan Levine",
-        "url": "https://cogdogblog.com/",
-        "feed": "https://cogdogblog.com/feed"
+        "title": "CANVAS",
+        "url": "https://canvasopedia.org/",
+        "feed": null
+    },
+
+    {
+        "title": "Greenpeace",
+        "url": "https://www.greenpeace.org/",
+        "feed": null
     },
     {
-        "title": "Marius Ghita",
-        "url": "https://mhitza.github.io",
-        "feed": "https://mhitza.github.io/atom.xml"
+        "title": "Albert Einstein Institution",
+        "url": "https://www.aeinstein.org/",
+        "feed": null
     },
     {
-        "title": "Rings around the Internet",
-        "url": "https://fanlistings.nickifaulk.com/webrings/",
+        "title": "Bits of Good",
+        "url": "https://bitsofgood.org/",
+        "feed": null
+    },
+    {
+        "title": "Human Rights Watch",
+        "url": "https://hrw.org/",
+        "feed": null
+    },
+    {
+        "title": "Citizens for Global Solutions",
+        "url": "https://globalsolutions.org/",
+        "feed": null
+    },
+    {
+        "title": "Extinction Rebellion",
+        "url": "https://rebellion.earth/",
+        "feed": null
+    },
+    {
+        "title": "One World",
+        "url": "https://oneworld.org/",
+        "feed": null
+    },
+    {
+        "title": "ICNC",
+        "url": "https://www.nonviolent-conflict.org/about/civil-resistance/",
+        "feed": null
+    },
+    {
+        "title": "Democracy OS",
+        "url": "http://democracyos.org/",
+        "feed": null
+    },
+    {
+        "title": "314 Action",
+        "url": "https://www.314action.org/",
+        "feed": null
+    },
+    {
+        "title": "Physicians for Human Rights",
+        "url": "https://phr.org/",
+        "feed": null
+    },
+
+    {
+        "title": "Change the Terms",
+        "url": "https://www.changetheterms.org/",
         "feed": null
     }
 ]

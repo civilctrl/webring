@@ -1,13 +1,16 @@
 {
-    "title": "Nerds of the 90s",
-    "description": "This is just a demo of a webring. It could be about anything - Metal Bands, Knitting, Craft Beer, Accessibility... For this one, let's just say it's about the good old 90s.",
-    "image": "freakazoid.jpg",
-    "url": "https://webringdemo.netlify.com",
-    "repo": "https://github.com/maxboeck/webring",
+    "title": "civil control",
+    "description": "Anyone who renounces responsibility also renounces the decision",
+    "description_hu": "Aki lemond a felelősségről, az lemond a döntésről is.",
+    "description_full": "Politics, just like corporations, have their own perspectives. Politics, just like corporations, must be kept away from breaking with humanity, generosity and responsibility — for the sake of the ration. “Thou shalt not be indifferent.”",
+    "image": "brain-on-wings--icon224.png",
+    "url": "https://www.civilcontrol.org",
+    "email": "now@civilcontrol.org",
+    "repo": "https://github.com/civilctrl/webring/",
     "admins": [
         {
-            "name": "Max Böck",
-            "url": "https://github.com/maxboeck"
+            "name": "civilctrl",
+            "url": "https://github.com/civilctrl"
         }
     ]
 }
